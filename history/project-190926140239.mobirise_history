@@ -74,7 +74,9 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "witsec-form-subject": "Mobirise Form",
-    "snow": ""
+    "snow": "",
+    "publishType": "local",
+    "publishPath": "file:///E:/VisionTech/Web%20Projects/web.thevisiontech.in/Sites/Site_26.09.19"
   },
   "pages": {
     "index.html": {

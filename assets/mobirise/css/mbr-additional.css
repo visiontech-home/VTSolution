@@ -1560,7 +1560,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #f2650b;
 }
 .cid-rblIaPrnIy button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1781,7 +1781,7 @@ body {
 }
 .cid-rblIaPrnIy .nav-link:hover,
 .cid-rblIaPrnIy .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #f2650b !important;
 }
 .cid-rbgOYUXjaV {
   padding-top: 120px;
@@ -2042,8 +2042,8 @@ body {
   color: #f2650b;
 }
 .cid-rCVBzzfYxZ {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rCVBzzfYxZ .mbr-section-btn > * {
@@ -2113,6 +2113,72 @@ body {
 }
 .cid-rCVBzzfYxZ .text1 {
   color: #073b4c;
+}
+.cid-rDa2d9Da2u {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rDa2d9Da2u h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rDa2d9Da2u p {
+  color: #767676;
+  margin: 0;
+}
+.cid-rDa2d9Da2u .card-box {
+  background-color: #ffffff;
+  background-color: transparent;
+}
+.cid-rDa2d9Da2u .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rDa2d9Da2u .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rDa2d9Da2u .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cid-rDa2d9Da2u .border_wrapper {
+  border-left: 1px solid #ff3366;
+  padding-left: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-rDa2d9Da2u .border_wrapper {
+    border-left: none;
+    padding-left: 0;
+  }
+  .cid-rDa2d9Da2u .mbr-section-btn a {
+    padding: 1rem 2rem;
+  }
+  .cid-rDa2d9Da2u .mbr-figure {
+    padding-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rDa2d9Da2u .wrapper {
+    align-items: center;
+    text-align: center;
+  }
+  .cid-rDa2d9Da2u .col-left h4 {
+    padding-top: 1rem;
+  }
+  .cid-rDa2d9Da2u p.col-right {
+    padding-top: 1rem;
+  }
+}
+.cid-rDa2d9Da2u .col-right {
+  color: #149dcc;
+}
+.cid-rDa2d9Da2u .card-title {
+  color: #f2650b;
 }
 .cid-rCVGbLblCq {
   padding-top: 30px;
@@ -2323,9 +2389,28 @@ body {
   text-align: left;
   color: #f2650b;
 }
+.cid-rDa57NiSsO {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+@media (min-width: 992px) {
+  .cid-rDa57NiSsO .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rDa57NiSsO .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rDa57NiSsO .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-rblxzAlRdL {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background: linear-gradient(45deg, #ffffff, #0f7699);
 }
 .cid-rblxzAlRdL .main {
@@ -2452,16 +2537,26 @@ body {
   }
 }
 .cid-rblMCYy7kj .foot-text {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rblMCYy7kj .foot-title {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rblMCYy7kj .form-text {
-  color: #232323;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-rblMCYy7kj .copyright > p {
-  color: #232323;
+  color: #ffd5e0;
+}
+.cid-rblMCYy7kj .foot-title B {
+  color: #ffffff;
+}
+.cid-rblMCYy7kj .foot-logo {
+  color: #ffffff;
+}
+.cid-rblMCYy7kj .copyright > p I {
+  color: #ffd5e0;
 }
 .cid-rblIaPrnIy .navbar {
   background: #ffffff;
@@ -2629,7 +2724,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #f2650b;
 }
 .cid-rblIaPrnIy button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2850,7 +2945,7 @@ body {
 }
 .cid-rblIaPrnIy .nav-link:hover,
 .cid-rblIaPrnIy .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #f2650b !important;
 }
 .cid-rblIaPrnIy .navbar {
   background: #ffffff;
@@ -3018,7 +3113,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #f2650b;
 }
 .cid-rblIaPrnIy button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3239,7 +3334,7 @@ body {
 }
 .cid-rblIaPrnIy .nav-link:hover,
 .cid-rblIaPrnIy .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #f2650b !important;
 }
 .cid-rCVPm1Evrt {
   background: #ffffff;
