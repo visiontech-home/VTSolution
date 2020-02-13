@@ -62,7 +62,7 @@
       }
     ],
     "uniqCompNum": 30,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ms-icon-ico-format.ico",
     "noImageResize": "",
@@ -76,9 +76,7 @@
     "witsec-form-subject": "VTSolution_Web",
     "snow": "",
     "witsec-white-label": "",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///E:/VisionTech/Web%20Projects/web.thevisiontech.in/Sites/Site_27.09.19_2"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
